@@ -1,0 +1,28 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "dcbf6716ca141df723685aa9d78b2bcdc0c45168f0f41d36dbc2eed29c392092"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.10"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "vgamepad": {
+            "hashes": [
+                "sha256:7f8d3a08bada78823f4225e90f0b8dc9779d384f5742a93a9253b386ee1f3081"
+            ],
+            "index": "pypi",
+            "version": "==0.0.7"
+        }
+    },
+    "develop": {}
+}
